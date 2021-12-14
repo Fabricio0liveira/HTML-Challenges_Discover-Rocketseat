@@ -1,24 +1,24 @@
 # HTML Challenges
 
 ## Glossary
-![Glossary](/images/glossary.png)
+![Glossary](/images/glossary.PNG)
 
 ___
 
 ## Contact Form
-![Contact Form](/images/contact-form.png)
+![Contact Form](/images/contact-form.PNG)
 
 ___
 
 ## Shopping List
-![Shopping List](/images/shopping-list.png)
+![Shopping List](/images/shopping-list.PNG)
 
 ___
 
 ## Quiz
-![Quiz](/images/quiz.png)
+![Quiz](/images/quiz.PNG)
 
 ___
 
 ## My Blog
-![My Blog](/images/blog.png)
+![My Blog](/images/blog.PNG)
