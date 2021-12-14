@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Entre em contato</legend>
+
+        <strong>Assunto:</strong>
+        <select name="assunto" id="assunto">
+            <option value="suporte">Suporte</option>
+            <option value="sugestao">Sugestâo</option>
+            <option value="reclamacao">Reclamação</option>
+            <option value="elogios">Elogios</option>
+        </select>
+
+        <p>
+            <label for="name"><strong>Nome Completo:</strong></label>
+            <input type="text" name="name" id="name" placeholder="Seu nome">
+        </p>
+
+        <p>
+            <label for="phone"><b>Telefone:</b></label>
+            <input type="tel" name="phone" id="phone" placeholder="(00)00000.0000">
+        </p>
+
+        <p>
+            <label for="email"><b>E-mail:</b></label>
+            <input type="email" name="email" id="email" placeholder="email@seudominio.com">
+        </p>
+
+        <p>
+            <label for="msg"><b>Mensagem:</b></label>
+            <br>
+            <textarea name="msg" id="msg" cols="30" rows="10"></textarea>
+        </p>
+
+        <p>
+            <input type="checkbox" name="confirm" id="confirm">
+            Aceito receber novidades por e-mail
+        </p>
+
+        <input type="submit" value="Enviar">
+    </fieldset>
+</body>
+</html>
